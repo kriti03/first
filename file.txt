@@ -1,2 +1,4 @@
 first file
 new content
+new file have new contents
+hi
